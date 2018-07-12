@@ -1,0 +1,35 @@
+.form-body {
+    width: 40%;
+    margin: auto;
+    margin-top: 120px;
+    border: 2px solid aqua;
+    padding: 20px;
+}
+.emp-header {
+    background-color: aqua;
+    text-align: center;
+}
+
+.table-body {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+table.table-bordered{
+    border:1px solid aqua;
+  }
+table.table-bordered > thead > tr > th{
+    border:1px solid aqua;
+}
+table.table-bordered > tbody > tr > td{
+    border:1px solid aqua;
+}
+
+.icon-svg {
+    width: 16px;
+    height: 16px;
+}
+.cancel-button {
+    margin-left: 300px;
+}
